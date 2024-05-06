@@ -96,8 +96,8 @@
     }
     .container {
         position: absolute;
-        top: 85px; /* Adjust the top position as per your requirement */
-        left: calc((1536px - 500px) / 2 + 270px); /* Adjust the left position as per your requirement */
+        top: 65px; /* Adjust the top position as per your requirement */
+        left: calc((1536px - 500px) / 2 + 250px); /* Adjust the left position as per your requirement */
         width: 270px; /* Increase width */
         height: 550px; /* Increase height */
         background-color: #FAEBD7; /* Set light brown background color */
